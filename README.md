@@ -2,28 +2,32 @@
 
 **Software Developer | AI Automation & Solutions**
 
-I'm a UK-based software developer with professional experience in software development, now focusing on **AI-assisted development, practical automation, and business workflow improvement**.
+I'm a UK-based software developer with professional software development experience, now focusing on **AI-assisted development, API integrations and business workflow automation**.
 
-I enjoy turning ideas into working applications, connecting tools through APIs, and learning by building.
+I enjoy turning ideas into working applications, learning new technologies through practical projects, and finding ways to simplify real operational problems.
 
 ### 🔧 Skills and tools
 - **AI:** Claude, Claude Code, Anthropic API, Cursor
-- **Development:** Python (currently building experience), JSON, SQL/MySQL, Git
+- **Development:** Python (building hands-on experience), JSON, SQL/MySQL, Git
+- **Application projects:** React, TypeScript, Express, Expo / React Native, Supabase and Stripe integrations through AI-assisted building
 - **Professional background:** Software development, CRM systems, troubleshooting and technical workflows
-- **Exploring:** AI agents, workflow automation, API integrations and structured LLM outputs
 
 ### 🚀 Selected projects
 
-**[AI Operations Case Assistant](https://github.com/Conor-coder/ai-operations-case-assistant)**  
-A Python + Claude API prototype that analyses fictional operations cases, produces structured JSON, and compares AI and rule-based priorities to flag disagreements for human review.
+#### [AI Operations Case Assistant](https://github.com/Conor-coder/ai-operations-case-assistant)
+A working Python + Claude API prototype that analyses fictional operations cases, produces structured JSON, and compares AI recommendations with deterministic priority rules. Disagreements are flagged for human review.
 
-**SharpenWill — Android app**  
-An independently built app published on Google Play, developed using AI-assisted tooling. Repository documentation is being refreshed.
+#### SharpenWill — published Android app
+An independently developed Android app published on Google Play using AI-assisted development tools. [Backend prototype](https://github.com/Conor-coder/sharpenwill-backend) (early Stripe checkout experiment).
 
-**[LoftLet — marketplace prototype](https://github.com/Conor-coder/loftlet-platform)**  
-An exploratory peer-to-peer storage marketplace/web app prototype. Not released to an app store.
+#### LoftLet — peer-to-peer storage marketplace prototypes
+An exploratory product concept with **separate web and mobile prototypes**:
+- **Web prototype:** React/TypeScript frontend, Express backend, database/authentication integration code, and screens for listings, bookings and messaging. The web source is undergoing a security and portfolio review before publication.
+- **[Mobile prototype](https://github.com/Conor-coder/loftlet-platform):** Expo/React Native experiment built with Rork.
 
-### 🎯 Interests
+LoftLet was not launched on an app store; these are development prototypes, not a live marketplace.
+
+### 🎯 Career interests
 AI Automation · AI Solutions Engineering · AI Transformation · Practical AI Integrations
 
 📍 Northampton, UK  
